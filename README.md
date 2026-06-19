@@ -5,8 +5,8 @@ A beautiful, modern, and fully responsive **Sign-In and Sign-Up form** with smoo
 ---
 
 ## 🚀 Live Demo
-Aap is project ka live browser preview yahan dekh sakte hain:
-👉 [Yahan Apna Live Link Paste Karein]
+Click here to view the live browser preview of this project:
+👉 [ https://roushani-keshri16.github.io/ANIMATED-SIGN-IN-SIGN-UP-PAGE/]
 
 ---
 
